@@ -1,0 +1,10 @@
+main:
+  - name: "For sale"
+    url: "/"
+    weight: 1
+
+
+footer:
+  - name: ""
+    url: "/"
+    weight: 4
