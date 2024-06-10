@@ -12,4 +12,4 @@ show_call_box: false
 
 This gem of a domain name could yours. Whether you're looking to launch a new venture or give an existing brand a prestigious online home, this domain is ready to make a splash.
 
-Eager to make it your own? We invite you to reach out at **sales@yoomee.com**. Starting bids are at £15K, so let's hear your best offer! Feel free to share a bit about your vision and any questions that are on your mind along with your offer.
+Eager to make it your own? We invite you to reach out at **sales@yoomee.com**. So let's hear your best offer! Feel free to share a bit about your vision and any questions that are on your mind along with your offer.
