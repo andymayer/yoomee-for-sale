@@ -1,15 +1,20 @@
 ---
-title: Domain for salae
+title: Domain for Sale
 layout: home
-description: Domain for salae
-intro_image: "images/illustrations/teaching2.svg"
+description: Premium domain name available for acquisition
+intro_image: “images/illustrations/teaching2.svg”
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-### Domain yoomee.com is for sale
+### Yoomee is now Nepsis Digital
 
-This gem of a domain name could yours. Whether you're looking to launch a new venture or give an existing brand a prestigious online home, this domain is ready to make a splash.
+The team behind Yoomee is now [Nepsis Digital](https://about.neps.is/).
 
-Eager to make it your own? We invite you to reach out at **sales@yoomee.com**. So let's hear your best offer! Feel free to share a bit about your vision and any questions that are on your mind along with your offer.
+### yoomee.com domain is for sale
+
+The yoomee.com domain is available for acquisition.
+
+If you’re interested in purchasing this domain, please email **sales@neps.is** with your offer and any questions you may have.
+
