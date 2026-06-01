@@ -2,7 +2,7 @@
 title: Domain for Sale
 layout: home
 description: Premium domain name available for acquisition
-intro_image: “images/illustrations/teaching2.svg”
+intro_image: "images/illustrations/teaching2.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
