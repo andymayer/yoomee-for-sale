@@ -10,7 +10,7 @@ show_call_box: false
 
 ### Yoomee is now Nepsis Digital
 
-The team behind Yoomee is now [Nepsis Digital](https://about.neps.is/).
+The team behind Yoomee is now [Nepsis Digital](https://neps.is/).
 
 ### yoomee.com domain is for sale
 
