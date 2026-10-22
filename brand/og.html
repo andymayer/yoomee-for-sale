@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>og image source</title>
+  <style>
+    @font-face {
+      font-family: "Outfit";
+      font-weight: 100 900;
+      src: url("../fonts/outfit-latin.woff2") format("woff2");
+    }
+    html, body { margin: 0; }
+    body {
+      width: 1200px;
+      height: 630px;
+      overflow: hidden;
+      background: #0b0b0d;
+      color: #f5f3ee;
+      font-family: "Outfit", Arial, sans-serif;
+      position: relative;
+    }
+    .glow {
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(700px 700px at 15% 120%, rgba(255, 90, 31, 0.36), transparent 60%),
+        radial-gradient(500px 500px at 95% -15%, rgba(255, 90, 31, 0.12), transparent 60%);
+    }
+    .wrap { position: absolute; left: 80px; top: 0; right: 80px; bottom: 0; display: flex; flex-direction: column; justify-content: center; }
+    .eyebrow { display: flex; align-items: center; gap: 14px; font-size: 22px; font-weight: 600; letter-spacing: 0.22em; text-transform: uppercase; color: #bdb9b0; margin-bottom: 28px; }
+    .dot { width: 14px; height: 14px; border-radius: 50%; background: #ff5a1f; }
+    h1 { margin: 0; font-size: 196px; font-weight: 900; line-height: 0.92; letter-spacing: -0.045em; }
+    h1 .tld { color: #ff5a1f; }
+    .lede { margin: 40px 0 0; font-size: 40px; color: #bdb9b0; }
+    .lede strong { color: #f5f3ee; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <div class="glow"></div>
+  <div class="wrap">
+    <div class="eyebrow"><span class="dot"></span>Domain name for sale</div>
+    <h1>yoomee<span class="tld">.com</span></h1>
+    <p class="lede">Six letters. One word. A <strong>.com</strong>. Make an offer.</p>
+  </div>
+</body>
+</html>

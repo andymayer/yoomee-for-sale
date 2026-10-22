@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>icon source</title>
+  <style>
+    @font-face {
+      font-family: "Outfit";
+      font-weight: 100 900;
+      src: url("../fonts/outfit-latin.woff2") format("woff2");
+    }
+    html, body { margin: 0; }
+    body {
+      width: 512px; height: 512px; overflow: hidden;
+      background: #0b0b0d;
+      font-family: "Outfit", Arial, sans-serif;
+      position: relative;
+    }
+    .y {
+      position: absolute; left: 0; right: 0; top: 0; bottom: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 360px; font-weight: 900; letter-spacing: -0.06em;
+      color: #f5f3ee; padding-right: 60px; padding-bottom: 30px;
+    }
+    .dot {
+      position: absolute; width: 96px; height: 96px; border-radius: 50%;
+      background: #ff5a1f; right: 72px; bottom: 100px;
+    }
+  </style>
+</head>
+<body>
+  <div class="y">y</div>
+  <div class="dot"></div>
+</body>
+</html>
